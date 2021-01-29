@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586903787706",
+    "project_id": "device-to-device-notific-60502",
+    "storage_bucket": "device-to-device-notific-60502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586903787706:android:29a54c007764b40eca4a83",
+        "android_client_info": {
+          "package_name": "com.stdio.devicetodevicenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586903787706-33futursihha7k9pmcqv8tf4ut4icmv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEgX7VlTNdNQgv-A4m4h85Zne5jzvtFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586903787706-33futursihha7k9pmcqv8tf4ut4icmv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
